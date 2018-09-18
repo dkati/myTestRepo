@@ -8,8 +8,8 @@ addpath('./Grid');
 
 %==============Global settings==============
 Prefs=Prefs();
-Prefs.showGraphs = false;
-Prefs.showArrows = false;
+Prefs.showGraphs = true;
+Prefs.showArrows = true;
 Prefs.showEdges = true;
 %===========================================
 
